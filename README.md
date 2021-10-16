@@ -12,7 +12,8 @@ As stated above, main purpose is to provide simple example for use Git and githu
 ##Deployment
 This is simple web project adn deployment can be done on any of web servers.
 
-## How To Contribute
+## How To Contribute 
+Please fork this repository and then pull requests for review
 
 ###Copyright
 
