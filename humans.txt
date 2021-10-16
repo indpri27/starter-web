@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Indranil Biswas indpri27@gmail.com 
 
 # THANKS
 
