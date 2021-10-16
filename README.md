@@ -14,3 +14,7 @@ This is simple web project adn deployment can be done on any of web servers.
 
 ## How To Contribute
 
+###Copyright
+
+2021 Git Training
+
